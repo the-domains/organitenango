@@ -1,4 +1,3 @@
-layout_spectrum: 0.3356301598250866
 typography_spectrum: 0.2385808788239956
 color:
   brandStrength: 0.5304765917826444
@@ -6,9 +5,11 @@ color:
   saturation: 0.1597608020529151
   rhythmicContrast: 0.5940997169818729
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+layout_spectrum: 0.3356301598250866
 name: Organitenango
+description: México
